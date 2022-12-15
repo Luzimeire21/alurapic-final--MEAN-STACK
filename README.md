@@ -1,2 +1,2 @@
-# alurapic-final--MEAN-STACK
+# alurapic-final
  
